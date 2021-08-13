@@ -4,7 +4,7 @@ A store created using the MERN stack, where the React Context API has been remov
 
 Original code from Trilogy Education Services.
 
-[Redux Store short demo](./docs/assets/redux-store-demo.gif)
+![Redux Store short demo](./docs/assets/redux-store-demo.gif)
 
 ## User Story
 
