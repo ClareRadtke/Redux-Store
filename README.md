@@ -1,6 +1,10 @@
 # Redux Store
 
-[demo of the app](link to the demo gif)
+A store created using the MERN stack, where the React Context API has been removed and the application has been refactored to use Redux.
+
+Original code from Trilogy Education Services.
+
+[Redux Store short demo](./docs/assets/redux-store-demo.gif)
 
 ## User Story
 
@@ -24,6 +28,6 @@ THEN I find that the app uses Redux instead of the Context API
 
 ### Requirements:
 
-- [ ] Retains all the functionality of the original application.
+- [x] Retains all the functionality of the original application.
 
-- [ ] Application must be deployed to Heroku.
+- [x] Application must be deployed to Heroku.
